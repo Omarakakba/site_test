@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+
+
+
+</head>
+
+<body bgcolor="white">
+
+<h1>liste des articles</h1>
+
+<table border="1"> 
+  <tr>
+          <td> Désignation </td>   <td> Prix </td>     <td> Immage </td>
+  </tr>
+ 
+
+  <tr>
+          <td> clavier </td>   <td> 35 euro </td>     <td> <img src="clavier.jpg"> <height="100" width="100">  </td>
+  </tr>
+
+
+  <tr>
+          <td> souris </td>   <td> 15 euro </td>     <td> <img src="sourie.jpg" height="100" width="100"> </td>
+  </tr>
+  
+
+  <tr>
+          <td> ecrain </td>   <td> 200 euro</td>     <td> <img src="ecrain1.jpg"> </td>
+  </tr>
+
+  <hr>
+  <table border="50%">
+
+  <tr>
+    <td> 1 </td> 
+
+    <td colspan="2">informatique </td>
+ </tr>
+
+  <tr>
+    <td> 2 </td>  <td> TCP/IP </td> <td rowspan="2"> Réseaux </td>
+
+</tr>
+ 
+<tr> 
+     <td> 3 </td> <td> Adresse Ip </td>
+
+</table>
+
+</body>
+</html>
